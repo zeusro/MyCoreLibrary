@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Zeusro</Authors>
+    <Description>my common library with .NET core 2</Description>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+
+</Project>
